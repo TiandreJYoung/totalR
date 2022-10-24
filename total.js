@@ -14,7 +14,7 @@
 
 //console.log(a< b);//True
  //console.log(c>d);//true
-  //console.log('Name'=== 'Name'); //True 
+ // console.log('Name'=== 'Name'); //True 
 
 
 
@@ -177,3 +177,72 @@
 //console.log(`this cube voilme is ${voulme}`);
 //}
 //calculateCube(40,40,40)
+
+
+
+//isVowelthat = function(vow){
+    //let Vowels=[`a`,`e`,`i`,`o`,`u`]
+
+    //for (i = 0; i,Vowels.length; i++){
+        //if(vow===Vowels[i]){
+
+        
+       // return true;
+   // } 
+    //}
+//return false;
+//}
+//console.log(isVowelthat("b")); 
+
+//function twoLengths(a,b){
+   // let arr =[];
+   // for (var i =0; i <arguments.length; i++){
+     //   arr.push(arguments[i].length);
+    //}
+    //return arr ;
+//}
+//console.log(getTwoLengths("Hank", "Hippopopalous"));
+//function getMultipleLengths(best){
+  //  const output=[];
+  //  for(best of strings){
+  //      output.push(string.length);
+  //  }
+  //  return output;
+//};
+
+//function maxOfThree(d,r,e){
+//let max = e;
+////if(b>max) max =d;
+//if(a>max) max = r
+//return max;
+//}
+//console.log(maxOfThree)
+
+//function printLongestWord()
+
+//objects
+//const User = {
+ // name: "jaguar",
+ // email: "jagu@gmail" ,
+ // age: "22" ,
+ // purchased: [] };
+ //updateUser(){
+//  email="Jaul@gmail.com"
+//    this.age++;
+//    User.push("location")
+  
+
+//  purchased.push("carbohydrates","peace of mind", "Merino jodhpurs")
+//  console.log("merino jodhupurs")
+// }
+// user.Friend= {
+//name:'Jake',
+//age:55,
+//location:'Marshall',
+//purchased:[]
+ //}
+ //Friend.purchased.push("The One Ring",'Latte');
+// console.log("Latte")
+
+
+//Loops

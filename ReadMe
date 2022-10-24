@@ -1,11 +1,11 @@
-Let, Const,Var
 
+ How do we assign a value to a variable? let,const,var
+How do we change the value of a variable? Through reassignment
+How do we assign an existing variable to a new variable? also through reassignment
+Remind me, what are declare, assign, and define? to define of specify an varible
+What is pseudocoding and why should you do it? The action of defining your code process within a human readable term.
 
-declare- to define or specify an varible 
-the action of defining your code process within a human read able 
+What percentage of time should be spent thinking about how you're going to solve a problem vs actually typing in code to solve it? 30min
 
-
-firstvarible is equal to secondvarible "hello hello people"
- 
- elements, yes none aphabetical 
- 
+What is the value of firstVariable? firstvarible is equal to secondvarible "hello hello people"
+What are the things in an array called? Do Arrays guarantee those things will be in order? What real-life thing could you model with an array? elements, yes none aphabetical. Grocery list.
